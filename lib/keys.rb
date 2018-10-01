@@ -10,4 +10,5 @@ require 'pry'
 
 def get_the_keys(groceries)
   #code your solution here!
+  arr = groceries[:dairy] [:vegetable] [:meat] [:grains]
 end
